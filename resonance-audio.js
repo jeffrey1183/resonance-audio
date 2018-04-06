@@ -41,7 +41,7 @@ resonanceAudioScene.setRoomProperties(roomDimensions, roomMaterials);
 let audioElement = document.createElement('audio');
 
 // Load an audio file into the AudioElement.
-audioElement.src = '/Desktop/音樂/Sound Library/cool_nights_free.wav';
+audioElement.src = '/resources/cool_nights_free.wav';
 
 
 // Generate a MediaElementSource from the AudioElement.
