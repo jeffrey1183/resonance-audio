@@ -53,7 +53,7 @@ let source = resonanceAudioScene.createSource();
 audioElementSource.connect(source.input);
 
 // Set the source position relative to the room center (source default position).
-source.setPosition(-0.707, -0.707, 0);
+source.setPosition(-1.707, -0.707, 0);
 
 // Play the audio.
 audioElement.play();
