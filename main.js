@@ -13,9 +13,9 @@ resonanceAudioScene.output.connect(audioContext.destination);
 // By default, room dimensions are undefined (0m x 0m x 0m).
 
 let roomDimensions = {
-  width: 3.1,
-  height: 2.5,
-  depth:3.4,
+  width: 1000,
+  height: 2000,
+  depth: 3000,
 }
 
 
